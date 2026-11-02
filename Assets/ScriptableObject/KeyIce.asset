@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cb787dcc6d375b418f76fbe864341be, type: 3}
+  m_Name: KeyIce
+  m_EditorClassIdentifier: 
+  itemName: KeyIce
+  quantity: 99
+  itemIcon: {fileID: 7514703532957692303, guid: 37729a84e7b7af24299bb0cfd136e9a8, type: 3}
+  itemDescription: KeyIce

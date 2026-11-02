@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cb787dcc6d375b418f76fbe864341be, type: 3}
+  m_Name: KeyWater
+  m_EditorClassIdentifier: 
+  itemName: KeyWater
+  quantity: 99
+  itemIcon: {fileID: 6395008248325180781, guid: 6090e857a525bf1479138223681683f7, type: 3}
+  itemDescription: KeyWater
